@@ -1,7 +1,6 @@
 ---
 title: "Julian M. Siebert"
 ---
-Hello World
-Hello again.
+
 
 <h1>Hello world</h1>
